@@ -1,3 +1,1 @@
 *.sql linguist-language=SQL
-*.prc linguist-language=SQL
-*.tbl linguist-language=SQL
